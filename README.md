@@ -1,7 +1,7 @@
 # 🌐 Domain Search Wizard 🔮
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
-![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
+[License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
+[Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
 
 Domain Search Wizard is a powerful, fun, and interactive command-line interface (CLI) tool that helps you find available domain names based on 'seed' input words that you vibe with. 💡🔍
 
@@ -21,17 +21,17 @@ Domain Search Wizard is a powerful, fun, and interactive command-line interface 
 
 Clone the repository and install the required Python packages.
 
-\```bash
+```bash
 git clone https://github.com/username/DomainSearchWizard.git
 cd DomainSearchWizard
 pip install -r requirements.txt
-\```
+```
 
 Run the script.
 
-\```bash
+```bash
 python domain_search_wizard.py
-\```
+```
 
 Follow the prompts in the interactive wizard. You can either provide a pre-made domain list, or enter industry buzzwords for domain permutation generation.
 
