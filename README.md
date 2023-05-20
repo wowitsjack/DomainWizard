@@ -1,17 +1,18 @@
 # 🌐 Domain Search Wizard 🔮
 
-[![Build Status](https://travis-ci.org/username/repo.svg?branch=main)]
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
 ![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
 
-Domain Search Wizard is a powerful, fun, and interactive command-line interface (CLI) tool that helps you find available domain names based on your industry buzzwords! 💡🔍 
+Domain Search Wizard is a powerful, fun, and interactive command-line interface (CLI) tool that helps you find available domain names based on 'seed' input words that you vibe with. 💡🔍
+
+
 
 ## 🎩 Features
 
 - User-friendly interactive wizard 🧙‍♂️
 - Domain availability checks across multiple TLDs 🌐
 - Optional domain list input 📝
-- Permutation generation for industry buzzwords 🔄
+- Permutation generation for terms, words, or phrases you like 🔄
 - Beautiful progress updates with Rich 🎨
 - Error handling for timed-out or failed checks ⏱️
 - Result output to your chosen file 📂
