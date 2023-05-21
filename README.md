@@ -1,7 +1,8 @@
 # 🌐 Domain Search Wizard 🔮
 
-[License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]
-[Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+
 
 Domain Search Wizard is a powerful, fun, and interactive command-line interface (CLI) tool that helps you find available domain names based on 'seed' input words that you vibe with. 💡🔍
 
