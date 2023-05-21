@@ -26,7 +26,7 @@ if errorlevel 1 (
 )
 
 echo "Checking required Python packages..."
-set packages=subprocess whois datetime itertools rich time
+set packages=subprocess whois datetime itertools requests rich time
 for %%i in (%packages%) do (
     python -c "import %%i" >nul 2>&1
     if errorlevel 1 (
