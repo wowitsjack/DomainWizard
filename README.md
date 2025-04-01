@@ -6,7 +6,7 @@
 
 Domain Search Wizard is a powerful, fun, and interactive command-line interface (CLI) tool that helps you find available domain names based on 'seed' input words that you vibe with. 💡🔍 
 
-
+ 
 
 ## 🎩 Features
 
